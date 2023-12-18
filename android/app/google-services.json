@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "224293441768",
+    "project_id": "fir-learn-app-4d5d8",
+    "storage_bucket": "fir-learn-app-4d5d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224293441768:android:33943dbc21f6c69d6d395d",
+        "android_client_info": {
+          "package_name": "com.example.neuflo_learn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt_ImpwE58xZySwaBw4Q3K9bypORyq_XM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
